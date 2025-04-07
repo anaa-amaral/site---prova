@@ -22,25 +22,6 @@ body{
         display: flex;
         border: 20px;
     }
-    
-    #icone{
-        width: 250px;
-        height: 150px;
-    }
-    
-    img{
-        width: 400px;
-        height: 300px;
-    }
-        
-    .foto{
-        display: flex;
-    } 
-
-    .fotos{
-  
-    } 
-    
 
     .HTML{
         margin: 10px;
@@ -51,8 +32,56 @@ body{
         border-color: rgb(129, 129, 129);
         text-align: center;
     }
-
+    
     .CSS{
+        margin: 10px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+        text-align: center;
+    }
+
+    #MAIS{
+        margin: 10px;
+        padding: 5px;
+        background-color: rgb(236, 236, 236);
+        display: flex;
+        border: 20px;
+    }
+
+    .PARADGMAS{
+        margin: 10px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+        text-align: center;
+    }
+    
+    .POSITION{
+        margin: 10px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+        text-align: center;
+    }
+
+    .PARADIGMAS{
+        margin: 10px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+        text-align: center;
+    }
+
+    .CSSL{
         margin: 10px;
         padding: 50px;
         background-color: rgb(236, 236, 236);
@@ -80,7 +109,7 @@ body{
     
     }
 
-    .POSITION{
+    .CARROSEL{
         margin: 50px;
         padding: 50px;
         background-color: rgb(236, 236, 236);
@@ -90,7 +119,7 @@ body{
     
     }
 
-    .CARROSEL{
+    .OI{
         margin: 50px;
         padding: 50px;
         background-color: rgb(236, 236, 236);
@@ -116,3 +145,17 @@ body{
     .text{
         text-align: left;
     }
+
+    #icone{
+        width: 250px;
+        height: 150px;
+    }
+    
+    img{
+        width: 400px;
+        height: 300px;
+    }
+        
+    .foto{
+        display: flex;
+    } 
