@@ -1,0 +1,118 @@
+body{ 
+    margin: 0px;
+    padding: 0px;   
+    border: 20px; 
+    background-color: rgb(59, 59, 59);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    #navbar{ 
+        margin: 0px;
+        padding: 5px;
+        background-color: rgb(241, 240, 240);
+        color:rgb(0, 0, 0);
+        text-align: center;
+    }
+    
+    #HTMLS{
+        margin: 10px;
+        padding: 5px;
+        background-color: rgb(236, 236, 236);
+        display: flex;
+        border: 20px;
+    }
+    
+    #icone{
+        width: 250px;
+        height: 150px;
+    }
+    
+    img{
+        width: 400px;
+        height: 300px;
+    }
+        
+    .foto{
+        display: flex;
+    } 
+
+    .fotos{
+  
+    } 
+    
+
+    .HTML{
+        margin: 10px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+        text-align: center;
+    }
+
+    .CSS{
+        margin: 10px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+        text-align: center;
+    }
+    
+    #PROPIEDADES{
+        margin: 10px;
+        padding: 5px;
+        background-color: rgb(236, 236, 236);
+        display: flex;
+        text-align: center;
+    }
+
+    .DISPLAY{
+        margin: 50px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+    
+    }
+
+    .POSITION{
+        margin: 50px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+    
+    }
+
+    .CARROSEL{
+        margin: 50px;
+        padding: 50px;
+        background-color: rgb(236, 236, 236);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(129, 129, 129);
+    
+    }
+
+    #titulo{
+        margin: 0;
+        padding: 5px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    #baixo{
+        text-align: center;
+        background-color: rgb(129, 129, 129);
+        padding: 15px;
+        color: white;
+    }
+
+    .text{
+        text-align: left;
+    }
