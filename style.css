@@ -159,3 +159,24 @@ body{
     .foto{
         display: flex;
     } 
+
+    #leitores{
+        position:fixed;
+        bottom: 20px;
+        right: 20px;
+        padding: 10px;
+        align-items: center;
+        background-color:rgb(65, 64, 63);
+        border-radius: 10px;
+        opacity: 0.7;
+        color: black;
+    }
+    
+    #leitor{
+        padding: 20px;
+        background-color:rgb(136, 133, 128);
+        text-align: left;
+        color: rgb(253, 253, 253);
+    }
+
+
